@@ -9,4 +9,4 @@ Made with HTML, CSS, JS.
 1. Hard to understand and made buttonpress key.
 Making my thoughts in real is not that easy that I thought.
 I know what to do and understand the sequence, but don't know how to do it.
-But this is my first JS project. So it will be more better and better time goes by.
+But this is my second JS project. So it will be more better and better time goes by.
